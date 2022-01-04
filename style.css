@@ -1,0 +1,78 @@
+body{
+font-family:sans-serif;
+margin: 0;
+}
+.jail {
+    color: deeppink;
+}
+h1{
+    font-size: 40px;color: 
+}
+.hulu{
+    background-color: whitesmoke;
+    text-decoration: none;
+    padding: 5px 15px ;
+    background-image:linear-gradient(orange,tomato);
+    font-weight: 900;
+}
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+.bala{
+    display: flex; 
+    background-color: gray;
+    color:black;
+}
+.boka{
+    width: 50%;padding: 30px;
+
+}
+.koba{
+    width: 50%;padding : 30px;
+    
+}
+.koba img{
+    width: 580px;
+    height: 500px;
+}
+section{
+    display: flex;
+
+}
+.box{
+    text-align:center;
+    padding-top: 60px;
+    text-decoration: rgb(100, 8, 8);
+    font-size: large;
+    text-transform: uppercase;
+    
+}
+
+
+.experience-0{
+background-color: lightcoral;
+    width: 40%;
+    margin: 5%;
+padding: 40px;
+box-shadow :10px,10px,40px whitesmoke;
+border-radius: 30px;
+border-left: 30px magenta;
+
+
+
+
+
+}
+
+
+footer{
+    text-align: center;
+    background-color: slategrey;
+}
+
+
+
+
+
